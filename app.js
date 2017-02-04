@@ -11,7 +11,7 @@ var ballYSpeed = 4;
 //Players score
 var player1Score = 0;
 var player2Score = 0;
-const scoreNeededToWin = 1;
+const scoreNeededToWin = 5;
 
 //Ping Pong paddles
 var paddle1Ypos = 250;
